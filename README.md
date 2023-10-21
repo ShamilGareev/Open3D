@@ -18,7 +18,7 @@ Open3D is a powerful open-source library designed for 3D data processing and vis
 
 - **3D Camera Pose Estimation**: It provides functionality to estimate camera poses for 3D reconstruction tasks.
 
-- **Integration with Other Libraries**: Open3D is designed to work seamlessly with popular libraries like NumPy and SciPy, making it an ideal choice for data scientists and researchers.
+- **Integration with Other Libraries**: Open3D is designed to work seamlessly with popular libraries like NumPy and SciPy.
 
 For more in-depth information and documentation, please visit the official [Open3D documentation](http://www.open3d.org/docs/).
 
