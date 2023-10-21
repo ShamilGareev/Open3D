@@ -4,7 +4,7 @@ This repository contains a simple Python script that demonstrates various point 
 
 ## Getting Started
 
-To run the code in this repository, you'll need to have Open3D installed. You can install it using pip:
+To run the code, you'll need to have Open3D installed. You can install it using pip:
 
 ```bash
 pip install open3d
