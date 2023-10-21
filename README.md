@@ -1,6 +1,7 @@
 # Open3D Point Cloud Processing 
 
 This repository showcases a Python script for performing point cloud processing using the Open3D library.
+
 Open3D is a powerful open-source library designed for 3D data processing and visualization. It offers a wide range of tools and features for working with 3D point cloud data.
 
 ## About Open3D
